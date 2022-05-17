@@ -16,5 +16,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * clicking on each card sends the user to relevant path (still need to build that)
 
 * search bar was built - need still to fix few bugs implementing it
-
-To be honnest 1.5 hours are not enough,  good for maximum 50% of the app
